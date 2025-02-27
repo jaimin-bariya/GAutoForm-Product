@@ -1,6 +1,4 @@
-Here's a **GitHub README** for your **GFormAuto** project:  
 
----
 
 ## 🚀 GFormAuto – Automate Google Form Submissions with a Single Click  
 
@@ -119,6 +117,3 @@ Special thanks to **Raj Sakhiya** for the inspiration behind this project! 🚀
 💡 If you like this project, **give it a ⭐ on GitHub!**  
 📬 Have suggestions? **Open an issue** or **connect with me on LinkedIn!**  
 
----
-
-This README keeps it **clean, structured, and informative**. Let me know if you want any edits! 🚀🔥
