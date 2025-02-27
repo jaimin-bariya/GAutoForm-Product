@@ -1,1 +1,6 @@
 // export {default as } from "@assets/"
+export {default as FAintro} from "@assets/FAintro.svg"
+export {default as FAintro2} from "@assets/FAintro2.svg"
+export {default as FAauto} from "@assets/FAauto.svg"
+export {default as FAdown} from "@assets/FAdown.svg"
+export {default as FAcsv} from "@assets/FAcsv.svg"

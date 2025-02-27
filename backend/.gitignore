@@ -1,0 +1,47 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+*.venv
+*.env
+
+# Environment variables
+.env
+*.secret
+
+# Logs
+logs/
+*.log
+
+# Database
+*.sqlite3
+*.db
+instance/
+
+# Pytest cache
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Compiled files
+*.so
+
+# macOS and Linux system files
+.DS_Store
+*.swp
+*.swo
+
+# VS Code & IDE settings
+.vscode/
+.idea/
+*.iml
+
+# Dependencies
+pip-log.txt
+pip-delete-this-directory.txt
